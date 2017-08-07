@@ -1,0 +1,108 @@
+# Copyright (C) 2017 jeffrey-wp
+# This file is distributed under the same license as the WooCommerce Backorder Manager
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Backorder Manager\n"
+"POT-Creation-Date: 2017-05-19 15:08+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../include/csv-export.php:9
+msgid "No access! Please login first."
+msgstr "Geen toegang! Log eerst in."
+
+#: ../include/csv-export.php:17 ../include/wc_report_stock_backorders.php:164
+msgid "Product"
+msgstr "Product"
+
+#: ../include/csv-export.php:18 ../include/wc_report_stock_backorders.php:165
+msgid "Categories"
+msgstr "Categorieën"
+
+#: ../include/csv-export.php:19 ../include/wc_report_stock_backorders.php:166
+msgid "Units backordered"
+msgstr "Eenheden nabesteld"
+
+#: ../include/csv-export.php:20 ../include/wc_report_stock_backorders.php:167
+msgid "Parent"
+msgstr "Hoofd"
+
+#: ../include/wc_report_stock_backorders.php:22
+msgid "No backordered items found."
+msgstr "Geen nabestelde eenheden gevonden."
+
+#: ../include/wc_report_stock_backorders.php:59
+msgid "CSV export"
+msgstr "CSV export"
+
+#: ../include/wc_report_stock_backorders.php:59
+#, php-format
+msgid "Total items on backorder: %d"
+msgstr "Totaal aantal eenheden in nabestelling: %d"
+
+#: ../include/wc_report_stock_backorders.php:134
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../include/wc_report_stock_backorders.php:141
+msgid "View"
+msgstr "Bekijk"
+
+#: ../include/wc_report_stock_backorders.php:149
+msgid "product"
+msgstr "product"
+
+#: ../include/wc_report_stock_backorders.php:168
+msgid "Actions"
+msgstr "Acties"
+
+#: ../woo-backorder-manager.php:52
+#, php-format
+msgid ""
+"%s plugin is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+"%s plugin is ingeschakeld maar niet actief. Om actief te maken is WooCommerce "
+"vereist."
+
+#: ../woo-backorder-manager.php:74
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../woo-backorder-manager.php:75
+msgid "Report"
+msgstr "Rapport"
+
+#: ../woo-backorder-manager.php:97
+msgid "Backorder Manager"
+msgstr "Backorder Manager"
+
+#: ../woo-backorder-manager.php:115
+msgid "Backorder email notifications"
+msgstr "Nabestellling e-mailnotificatie"
+
+#: ../woo-backorder-manager.php:121
+msgid "Backorder"
+msgstr "Nabestelling"
+
+#: ../woo-backorder-manager.php:123
+msgid "Don't send email notifications when a backorder is made."
+msgstr "Geen e-mail versturen als een nabestelling is geplaats."
+
+#: ../woo-backorder-manager.php:124
+msgid "Disable backorder email notifications"
+msgstr "Uitschakelen nabestelling e-mailnotificaties"
+
+#: ../woo-backorder-manager.php:167
+msgid "On backorder"
+msgstr "In nabestelling"
